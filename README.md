@@ -5,7 +5,7 @@
 
 # Current Build Status
 
-Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/csdms-sedflux-subside-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/csdms-sedflux-subside-recipe)
+Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/sedflux-subside-csdms-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/sedflux-subside-csdms-recipe)
 
 # About csdms-sedflux-subside
 
